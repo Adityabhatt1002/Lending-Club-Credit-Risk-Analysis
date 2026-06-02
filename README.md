@@ -133,7 +133,4 @@ notebooks/
 ---
 
 ## Contact
-
-For detailed EDA notebooks, modeling discussions, or project-related questions, feel free to reach out:
-
 Email: [iamadityabhatt1002@gmail.com](mailto:iamadityabhatt1002@gmail.com)
